@@ -4,6 +4,8 @@
 
 The DB of the API was made having in count the following ER diagram:
 
+![image](https://github.com/user-attachments/assets/c2b9653a-8293-4f46-a6e8-e2434a20b13e)
+
 ## App Folders
 
 - Controllers
@@ -38,3 +40,4 @@ https://localhost:{portWhereTheServerIsRunning}/swagger
 ```
 
 You should see something like this where you can test the endpoint to create users:
+![image](https://github.com/user-attachments/assets/122bc876-d64d-4466-b97a-e52f94994afe)
