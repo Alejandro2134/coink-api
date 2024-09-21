@@ -25,7 +25,7 @@ You will need to run the SQL script on the **_scripts_** folder, if you are usin
 psql your_db_name < coink-db.sql
 ```
 
-This will create the DB with the necessary tables and initial data for the API to work correctly.
+This will create the DB with the necessary tables, the store procedure, and the initial data for the API to work correctly.
 
 After setup the DB you can run the following command in the root of the project to start the server:
 
